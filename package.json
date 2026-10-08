@@ -1,0 +1,32 @@
+{
+  "name": "pixel-theater",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "像素小剧场：用 Claude Code 写一份脚本，生成像素风剧情短片（基于 Remotion）",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "node scripts/render.mjs",
+    "new": "node scripts/new-project.mjs",
+    "check": "tsc --noEmit",
+    "tts": "node scripts/tts.mjs"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.516",
+    "@remotion/cli": "4.0.516",
+    "@remotion/google-fonts": "4.0.516",
+    "@remotion/layout-utils": "4.0.516",
+    "@remotion/shapes": "4.0.516",
+    "@remotion/transitions": "4.0.516",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.516"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.0",
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "typescript": "5.9.3"
+  },
+  "license": "MIT"
+}

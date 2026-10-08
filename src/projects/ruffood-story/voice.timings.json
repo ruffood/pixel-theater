@@ -1,0 +1,855 @@
+{
+  "engine": "edge",
+  "voice": "zh-CN-YunxiNeural",
+  "lufs": -16,
+  "generatedAt": "2026-10-08T12:50:58.391Z",
+  "scenes": {
+    "intro": {
+      "file": "audio/ruffood-story/intro.mp3",
+      "seconds": 5.472,
+      "words": [
+        {
+          "word": "我",
+          "startMs": 30,
+          "endMs": 192
+        },
+        {
+          "word": "是",
+          "startMs": 192,
+          "endMs": 317
+        },
+        {
+          "word": "伯恩",
+          "startMs": 330,
+          "endMs": 767
+        },
+        {
+          "word": "若饭",
+          "startMs": 1167,
+          "endMs": 1542
+        },
+        {
+          "word": "的",
+          "startMs": 1542,
+          "endMs": 1604
+        },
+        {
+          "word": "创始人",
+          "startMs": 1617,
+          "endMs": 2167
+        },
+        {
+          "word": "做",
+          "startMs": 2742,
+          "endMs": 2942
+        },
+        {
+          "word": "若饭",
+          "startMs": 2942,
+          "endMs": 3254
+        },
+        {
+          "word": "之前",
+          "startMs": 3267,
+          "endMs": 3804
+        },
+        {
+          "word": "我",
+          "startMs": 4055,
+          "endMs": 4205
+        },
+        {
+          "word": "写",
+          "startMs": 4205,
+          "endMs": 4355
+        },
+        {
+          "word": "了",
+          "startMs": 4355,
+          "endMs": 4455
+        },
+        {
+          "word": "十一",
+          "startMs": 4480,
+          "endMs": 4792
+        },
+        {
+          "word": "年",
+          "startMs": 4792,
+          "endMs": 4942
+        },
+        {
+          "word": "程序",
+          "startMs": 4955,
+          "endMs": 5392
+        }
+      ]
+    },
+    "checkup": {
+      "file": "audio/ruffood-story/checkup.mp3",
+      "seconds": 6.897,
+      "words": [
+        {
+          "word": "2013",
+          "startMs": 30,
+          "endMs": 592
+        },
+        {
+          "word": "年",
+          "startMs": 592,
+          "endMs": 742
+        },
+        {
+          "word": "体检",
+          "startMs": 755,
+          "endMs": 1230
+        },
+        {
+          "word": "血脂",
+          "startMs": 1542,
+          "endMs": 1992
+        },
+        {
+          "word": "偏",
+          "startMs": 2005,
+          "endMs": 2255
+        },
+        {
+          "word": "高",
+          "startMs": 2255,
+          "endMs": 2555
+        },
+        {
+          "word": "还有",
+          "startMs": 2767,
+          "endMs": 3054
+        },
+        {
+          "word": "脂肪",
+          "startMs": 3080,
+          "endMs": 3480
+        },
+        {
+          "word": "肝倾向",
+          "startMs": 3492,
+          "endMs": 4092
+        },
+        {
+          "word": "医生",
+          "startMs": 4667,
+          "endMs": 4967
+        },
+        {
+          "word": "说",
+          "startMs": 4967,
+          "endMs": 5317
+        },
+        {
+          "word": "三餐",
+          "startMs": 5542,
+          "endMs": 6042
+        },
+        {
+          "word": "必须",
+          "startMs": 6067,
+          "endMs": 6342
+        },
+        {
+          "word": "均衡",
+          "startMs": 6355,
+          "endMs": 6817
+        }
+      ]
+    },
+    "takeout": {
+      "file": "audio/ruffood-story/takeout.mp3",
+      "seconds": 4.584,
+      "words": [
+        {
+          "word": "可",
+          "startMs": 30,
+          "endMs": 192
+        },
+        {
+          "word": "早饭",
+          "startMs": 205,
+          "endMs": 580
+        },
+        {
+          "word": "来不及",
+          "startMs": 605,
+          "endMs": 942
+        },
+        {
+          "word": "做",
+          "startMs": 955,
+          "endMs": 1242
+        },
+        {
+          "word": "午饭",
+          "startMs": 1642,
+          "endMs": 2042
+        },
+        {
+          "word": "晚饭",
+          "startMs": 2055,
+          "endMs": 2467
+        },
+        {
+          "word": "全",
+          "startMs": 2492,
+          "endMs": 2704
+        },
+        {
+          "word": "靠",
+          "startMs": 2705,
+          "endMs": 2855
+        },
+        {
+          "word": "外卖",
+          "startMs": 2867,
+          "endMs": 3242
+        },
+        {
+          "word": "吃完",
+          "startMs": 3517,
+          "endMs": 3992
+        },
+        {
+          "word": "就",
+          "startMs": 4005,
+          "endMs": 4092
+        },
+        {
+          "word": "犯困",
+          "startMs": 4092,
+          "endMs": 4504
+        }
+      ]
+    },
+    "dog": {
+      "file": "audio/ruffood-story/dog.mp3",
+      "seconds": 3.947,
+      "words": [
+        {
+          "word": "我",
+          "startMs": 30,
+          "endMs": 180
+        },
+        {
+          "word": "看",
+          "startMs": 180,
+          "endMs": 342
+        },
+        {
+          "word": "着",
+          "startMs": 342,
+          "endMs": 417
+        },
+        {
+          "word": "家里",
+          "startMs": 430,
+          "endMs": 642
+        },
+        {
+          "word": "的",
+          "startMs": 642,
+          "endMs": 717
+        },
+        {
+          "word": "小狗",
+          "startMs": 730,
+          "endMs": 1280
+        },
+        {
+          "word": "每天",
+          "startMs": 1567,
+          "endMs": 1917
+        },
+        {
+          "word": "吃",
+          "startMs": 1930,
+          "endMs": 2117
+        },
+        {
+          "word": "狗",
+          "startMs": 2117,
+          "endMs": 2279
+        },
+        {
+          "word": "粮",
+          "startMs": 2280,
+          "endMs": 2555
+        },
+        {
+          "word": "却",
+          "startMs": 2842,
+          "endMs": 3004
+        },
+        {
+          "word": "活",
+          "startMs": 3017,
+          "endMs": 3167
+        },
+        {
+          "word": "得",
+          "startMs": 3167,
+          "endMs": 3229
+        },
+        {
+          "word": "很",
+          "startMs": 3255,
+          "endMs": 3380
+        },
+        {
+          "word": "健康",
+          "startMs": 3380,
+          "endMs": 3867
+        }
+      ]
+    },
+    "why": {
+      "file": "audio/ruffood-story/why.mp3",
+      "seconds": 1.872,
+      "words": [
+        {
+          "word": "为什么",
+          "startMs": 30,
+          "endMs": 455
+        },
+        {
+          "word": "人",
+          "startMs": 555,
+          "endMs": 755
+        },
+        {
+          "word": "没有",
+          "startMs": 767,
+          "endMs": 929
+        },
+        {
+          "word": "这样",
+          "startMs": 942,
+          "endMs": 1167
+        },
+        {
+          "word": "的",
+          "startMs": 1167,
+          "endMs": 1229
+        },
+        {
+          "word": "食物",
+          "startMs": 1242,
+          "endMs": 1792
+        }
+      ]
+    },
+    "nutrition": {
+      "file": "audio/ruffood-story/nutrition.mp3",
+      "seconds": 5.447,
+      "words": [
+        {
+          "word": "营养学",
+          "startMs": 30,
+          "endMs": 530
+        },
+        {
+          "word": "早",
+          "startMs": 555,
+          "endMs": 755
+        },
+        {
+          "word": "就算",
+          "startMs": 755,
+          "endMs": 992
+        },
+        {
+          "word": "清楚",
+          "startMs": 1005,
+          "endMs": 1305
+        },
+        {
+          "word": "了",
+          "startMs": 1305,
+          "endMs": 1530
+        },
+        {
+          "word": "一个",
+          "startMs": 1830,
+          "endMs": 2055
+        },
+        {
+          "word": "人",
+          "startMs": 2055,
+          "endMs": 2180
+        },
+        {
+          "word": "一天",
+          "startMs": 2192,
+          "endMs": 2479
+        },
+        {
+          "word": "需要",
+          "startMs": 2505,
+          "endMs": 2717
+        },
+        {
+          "word": "什么",
+          "startMs": 2730,
+          "endMs": 3042
+        },
+        {
+          "word": "那",
+          "startMs": 3617,
+          "endMs": 3767
+        },
+        {
+          "word": "就",
+          "startMs": 3767,
+          "endMs": 3854
+        },
+        {
+          "word": "按",
+          "startMs": 3867,
+          "endMs": 4017
+        },
+        {
+          "word": "比例",
+          "startMs": 4030,
+          "endMs": 4467
+        },
+        {
+          "word": "把",
+          "startMs": 4592,
+          "endMs": 4729
+        },
+        {
+          "word": "它",
+          "startMs": 4730,
+          "endMs": 4792
+        },
+        {
+          "word": "配",
+          "startMs": 4805,
+          "endMs": 5005
+        },
+        {
+          "word": "出来",
+          "startMs": 5005,
+          "endMs": 5367
+        }
+      ]
+    },
+    "precedent": {
+      "file": "audio/ruffood-story/precedent.mp3",
+      "seconds": 4.947,
+      "words": [
+        {
+          "word": "硅谷",
+          "startMs": 30,
+          "endMs": 392
+        },
+        {
+          "word": "在",
+          "startMs": 405,
+          "endMs": 580
+        },
+        {
+          "word": "做",
+          "startMs": 580,
+          "endMs": 867
+        },
+        {
+          "word": "航天",
+          "startMs": 1267,
+          "endMs": 1629
+        },
+        {
+          "word": "员",
+          "startMs": 1630,
+          "endMs": 1792
+        },
+        {
+          "word": "在",
+          "startMs": 1805,
+          "endMs": 2005
+        },
+        {
+          "word": "吃",
+          "startMs": 2005,
+          "endMs": 2330
+        },
+        {
+          "word": "医院",
+          "startMs": 2617,
+          "endMs": 2917
+        },
+        {
+          "word": "也",
+          "startMs": 2930,
+          "endMs": 3030
+        },
+        {
+          "word": "在",
+          "startMs": 3030,
+          "endMs": 3155
+        },
+        {
+          "word": "用",
+          "startMs": 3155,
+          "endMs": 3342
+        },
+        {
+          "word": "这",
+          "startMs": 3905,
+          "endMs": 4030
+        },
+        {
+          "word": "事",
+          "startMs": 4030,
+          "endMs": 4105
+        },
+        {
+          "word": "靠谱",
+          "startMs": 4117,
+          "endMs": 4867
+        }
+      ]
+    },
+    "jane": {
+      "file": "audio/ruffood-story/jane.mp3",
+      "seconds": 5.31,
+      "words": [
+        {
+          "word": "2014",
+          "startMs": 30,
+          "endMs": 530
+        },
+        {
+          "word": "年",
+          "startMs": 530,
+          "endMs": 880
+        },
+        {
+          "word": "我",
+          "startMs": 1142,
+          "endMs": 1279
+        },
+        {
+          "word": "和",
+          "startMs": 1280,
+          "endMs": 1367
+        },
+        {
+          "word": "营养",
+          "startMs": 1380,
+          "endMs": 1642
+        },
+        {
+          "word": "师",
+          "startMs": 1642,
+          "endMs": 1767
+        },
+        {
+          "word": "好友",
+          "startMs": 1780,
+          "endMs": 2280
+        },
+        {
+          "word": "Jane",
+          "startMs": 2380,
+          "endMs": 2842
+        },
+        {
+          "word": "定下",
+          "startMs": 2842,
+          "endMs": 3117
+        },
+        {
+          "word": "配方",
+          "startMs": 3130,
+          "endMs": 3580
+        },
+        {
+          "word": "自己",
+          "startMs": 3855,
+          "endMs": 4142
+        },
+        {
+          "word": "先",
+          "startMs": 4155,
+          "endMs": 4317
+        },
+        {
+          "word": "连",
+          "startMs": 4317,
+          "endMs": 4429
+        },
+        {
+          "word": "吃",
+          "startMs": 4442,
+          "endMs": 4592
+        },
+        {
+          "word": "了",
+          "startMs": 4592,
+          "endMs": 4654
+        },
+        {
+          "word": "好几周",
+          "startMs": 4680,
+          "endMs": 5230
+        }
+      ]
+    },
+    "name": {
+      "file": "audio/ruffood-story/name.mp3",
+      "seconds": 6.259,
+      "words": [
+        {
+          "word": "它",
+          "startMs": 30,
+          "endMs": 217
+        },
+        {
+          "word": "不是",
+          "startMs": 230,
+          "endMs": 542
+        },
+        {
+          "word": "零食",
+          "startMs": 555,
+          "endMs": 1092
+        },
+        {
+          "word": "不是",
+          "startMs": 1330,
+          "endMs": 1617
+        },
+        {
+          "word": "代餐",
+          "startMs": 1630,
+          "endMs": 2080
+        },
+        {
+          "word": "也",
+          "startMs": 2405,
+          "endMs": 2555
+        },
+        {
+          "word": "不是",
+          "startMs": 2555,
+          "endMs": 2767
+        },
+        {
+          "word": "保健品",
+          "startMs": 2780,
+          "endMs": 3280
+        },
+        {
+          "word": "它",
+          "startMs": 3855,
+          "endMs": 4067
+        },
+        {
+          "word": "就",
+          "startMs": 4080,
+          "endMs": 4205
+        },
+        {
+          "word": "是",
+          "startMs": 4205,
+          "endMs": 4305
+        },
+        {
+          "word": "一",
+          "startMs": 4317,
+          "endMs": 4404
+        },
+        {
+          "word": "顿",
+          "startMs": 4405,
+          "endMs": 4555
+        },
+        {
+          "word": "饭",
+          "startMs": 4555,
+          "endMs": 4867
+        },
+        {
+          "word": "我",
+          "startMs": 5317,
+          "endMs": 5492
+        },
+        {
+          "word": "叫",
+          "startMs": 5492,
+          "endMs": 5617
+        },
+        {
+          "word": "它",
+          "startMs": 5630,
+          "endMs": 5767
+        },
+        {
+          "word": "若饭",
+          "startMs": 5767,
+          "endMs": 6179
+        }
+      ]
+    },
+    "products": {
+      "file": "audio/ruffood-story/products.mp3",
+      "seconds": 6.234,
+      "words": [
+        {
+          "word": "2015",
+          "startMs": 30,
+          "endMs": 580
+        },
+        {
+          "word": "年",
+          "startMs": 580,
+          "endMs": 942
+        },
+        {
+          "word": "第一",
+          "startMs": 1155,
+          "endMs": 1430
+        },
+        {
+          "word": "版",
+          "startMs": 1430,
+          "endMs": 1642
+        },
+        {
+          "word": "若饭",
+          "startMs": 1667,
+          "endMs": 1979
+        },
+        {
+          "word": "诞生",
+          "startMs": 1992,
+          "endMs": 2454
+        },
+        {
+          "word": "后来",
+          "startMs": 3030,
+          "endMs": 3380
+        },
+        {
+          "word": "又",
+          "startMs": 3405,
+          "endMs": 3555
+        },
+        {
+          "word": "有",
+          "startMs": 3555,
+          "endMs": 3667
+        },
+        {
+          "word": "了",
+          "startMs": 3667,
+          "endMs": 3754
+        },
+        {
+          "word": "粉末",
+          "startMs": 3780,
+          "endMs": 4255
+        },
+        {
+          "word": "液体",
+          "startMs": 4680,
+          "endMs": 5317
+        },
+        {
+          "word": "和",
+          "startMs": 5430,
+          "endMs": 5605
+        },
+        {
+          "word": "固体版",
+          "startMs": 5617,
+          "endMs": 6154
+        }
+      ]
+    },
+    "users": {
+      "file": "audio/ruffood-story/users.mp3",
+      "seconds": 3.334,
+      "words": [
+        {
+          "word": "现在",
+          "startMs": 30,
+          "endMs": 617
+        },
+        {
+          "word": "已经",
+          "startMs": 992,
+          "endMs": 1229
+        },
+        {
+          "word": "有",
+          "startMs": 1230,
+          "endMs": 1355
+        },
+        {
+          "word": "四十多万",
+          "startMs": 1380,
+          "endMs": 1942
+        },
+        {
+          "word": "饭友",
+          "startMs": 1955,
+          "endMs": 2355
+        },
+        {
+          "word": "在",
+          "startMs": 2455,
+          "endMs": 2630
+        },
+        {
+          "word": "吃",
+          "startMs": 2642,
+          "endMs": 2842
+        },
+        {
+          "word": "若饭",
+          "startMs": 2842,
+          "endMs": 3254
+        }
+      ]
+    },
+    "slogan": {
+      "file": "audio/ruffood-story/slogan.mp3",
+      "seconds": 2.047,
+      "words": [
+        {
+          "word": "没空",
+          "startMs": 30,
+          "endMs": 392
+        },
+        {
+          "word": "吃饭",
+          "startMs": 405,
+          "endMs": 855
+        },
+        {
+          "word": "来",
+          "startMs": 1267,
+          "endMs": 1454
+        },
+        {
+          "word": "份",
+          "startMs": 1455,
+          "endMs": 1567
+        },
+        {
+          "word": "若饭",
+          "startMs": 1580,
+          "endMs": 1967
+        }
+      ]
+    }
+  }
+}
